@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite1]">
+  <test name="PrimeNumber(failed)">
+    <classes>
+      <class name="com.bayamp.java.package1.PrimeNumber">
+        <methods>
+          <include name="main"/>
+        </methods>
+      </class> <!-- com.bayamp.java.package1.PrimeNumber -->
+    </classes>
+  </test> <!-- PrimeNumber(failed) -->
+</suite> <!-- Failed suite [Suite1] -->
